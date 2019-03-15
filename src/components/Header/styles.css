@@ -1,0 +1,25 @@
+.header{
+  width: 100%;
+  background-color: orange;
+  display: flex;
+  justify-content: center;
+}
+
+
+.header-logo{
+  height: 50px;
+  width: 50px;
+}
+.header-nav{
+  list-style: none;
+
+}
+
+.header-nav__link{
+  text-decoration: none;
+  color: white;
+}
+
+.header-nav__link:hover{
+  color: brown;
+}
